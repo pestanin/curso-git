@@ -113,7 +113,7 @@ ___
 Esto es nuestro primer párrafo.
 
 ```
-El intro tiene que ser doble para que se vea el espacio. Si es simple el texto va a continuación y no hace salto de línea.
+El intro tiene que ser doble para que se vea el espacio. Si es simple el texto va a continuación y no hace salto de línea como ocurre abajo.
 ```
 
 Esto es nuestro segundo párrafo.
