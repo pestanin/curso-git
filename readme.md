@@ -37,4 +37,46 @@ Underline 2
 - [Esto es un enlace al index](index.html)
 
 # - Imágenes
-![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo GitHub](https://www.numipage.com/wp-content/uploads/2016/10/github-logo.png)
+
+# - Code snippets
+Código en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+Código en javascript
+```javascript
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    <div>
+      <web-component>{block}</web-component>
+    </div>
+  )
+}
+
+export  $initHighlight;
+```
