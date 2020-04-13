@@ -108,3 +108,15 @@ Esto es un texto separado por una línea hecha con asteriscos
 Esto es un texto separado por una línea hecha con guiones bajos
 
 ___
+
+# - Saltos de línea
+Esto es nuestro primer párrafo.
+
+```
+El intro tiene que ser doble para que se vea el espacio. Si es simple el texto va a continuación y no hace salto de línea.
+```
+
+Esto es nuestro segundo párrafo.
+Esto es nuestro tercer párrafo.
+
+
