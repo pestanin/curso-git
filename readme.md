@@ -10,6 +10,3 @@ Underline 1
 
 Underline 2
 ===============
-
-Underline 1
----------------
