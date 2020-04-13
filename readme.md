@@ -88,3 +88,10 @@ export  $initHighlight;
 | Paco  | Martínez | 466276367-S |
 | Paco  | Martínez | 466276367-S |
 | Nacho  | Diez-Quijada Argaya | 29394950-S |
+
+# - Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita. Darle dos intros para "salir" de la cita.
+
+Esto es otro texto fuera de la cita:
+> Esto es otra cita
