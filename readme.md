@@ -10,3 +10,11 @@ Underline 1
 
 Underline 2
 ===============
+
+- Formato *itálica* de una forma.
+- Formato _itálica_ de otra forma.
+
+- Formato __negrita__ de una forma.
+- Formato **negrita** de otra forma.
+
+- Formato ~~tachado~~.
